@@ -17,7 +17,7 @@ artifact URLs below for ingestion into downstream stages.
 
 ## Stage 3.1 — Strategy Brief
 
-- https://raw.githubusercontent.com/ealihasnain/episodes/main/D001_PayYourselfWrong/01_StrategyBrief_v1.html
+- https://raw.githubusercontent.com/ealihasnain/mpd-episodes/main/D001_PayYourselfWrong/01_StrategyBrief_v1.html
 
 ## Stage 3.2 — Voice Script
 
